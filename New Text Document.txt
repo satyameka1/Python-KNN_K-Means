@@ -1,0 +1,33 @@
+Player	
+Pos- Position	
+Age	
+Tm- Team	
+G - Games	
+GS- Games Started 
+MP- Minutes Played
+FG-Field Goals (includes both 2-point field goals and 3-point field goals)	
+FGA-Field Goal Attempts (includes both 2-point field goal attempts and 3-point field goal attempts)
+
+FG%-Field Goal Percentage; the formula is FG / FGA.	
+3P- 3-Point Field Goals (available since the 1979-80 season in the NBA)	
+3PA-3-Point Field Goal Attempts (available since the 1979-80 season in the NBA)	
+3P%- 3-Point Field Goal Percentage (available since the 1979-80 season in the NBA); the formula is 3P / 3PA.
+2P- 2-Point Field Goals	
+2PA- 2-Point Field Goal Attempts
+2P%- 2-Point Field Goal Percentage; the formula is 2P / 2PA.
+	
+eFG%	-Effective Field Goal Percentage; the formula is (FG + 0.5 * 3P) / FGA. This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal. For example, suppose Player A goes 4 for 10 with 2 threes, while Player B goes 5 for 10 with 0 threes. Each player would have 10 points from field goals, and thus would have the same effective field goal percentage (50%).
+
+FT- Free Throws
+FTA- Free Throw Attempts
+FT%- Free Throw Percentage; the formula is FT / FTA.	
+ORB- Offensive Rebounds	
+DRB- Defensive Rebounds 	
+TRB- Total Rebounds
+AST-Assist Percentage (available since the 1964-65 season in the NBA); the formula is 100 * AST / (((MP / (Tm MP / 5)) * Tm FG) - FG). Assist percentage is an estimate of the percentage of teammate field goals a player assisted while he was on the floor.
+ 	
+STL- Steals 
+BLK = 	Blocks (available since the 1973-74 season in the NBA)
+TOV- Turnovers 	
+PF- Personal Fouls
+PS/G
